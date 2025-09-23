@@ -30,6 +30,6 @@
 ---
 
 ## 📫 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)]([your-linkedin-url](https://www.linkedin.com/in/ankit-anurag-senapati/))  
-[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)]([https://github.com/your-username](https://github.com/Antheron23))  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ankit-anurag-senapati/)  
+[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)](https://github.com/Antheron23)  
 📧 Email: ankitsenapati155@gmail.com
