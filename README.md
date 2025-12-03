@@ -1,7 +1,7 @@
 # Hi there 👋, I'm Ankit Anurag Senapati
 
 🎓 B.Tech CSE student at KIIT University (CGPA: 8.23)  
-💻 Aspiring Software Engineer | AI ML Enthusiast | Full-Stack Developer  
+💻 Aspiring Software Engineer | AI ML Enthusiast | Backend Developer  
 📍 Based in Bhubaneswar, Odisha  
 
 ---
