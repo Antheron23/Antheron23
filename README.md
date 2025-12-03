@@ -16,7 +16,7 @@
 ---
 
 ## 🚀 Featured Projects
-- **[Expense Management System](#)** → Full-stack CRUD app with React, Node.js, Express, and MongoDB Atlas.  
+- **[Budget Control System](#)** → A secure, full-stack MERN expense tracker featuring real-time budget monitoring, JWT authentication, and a professional, responsive dashboard.  
 - **[Crime Type & Occurrence Predictor](#)** → ML-based model comparing algorithms for crime classification.  
 - **[GenAI Knowledge Chatbot](#)** → Offline GenAI system using HuggingFace embeddings, FAISS, and Streamlit.  
 
@@ -31,5 +31,4 @@
 
 ## 📫 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ankit-anurag-senapati/)  
-[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)](https://github.com/Antheron23)  
 📧 Email: ankitsenapati155@gmail.com
