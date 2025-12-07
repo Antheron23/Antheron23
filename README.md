@@ -7,11 +7,12 @@
 ---
 
 ## 🔧 Tech Stack
-- **Languages:** C++, Python, Java, JavaScript  
-- **Web Technologies:** HTML, CSS, Bootstrap, Material-UI  
-- **Frameworks & Libraries:** Node.js, Express.js, React, jQuery  
-- **Database:** MongoDB  
-- **Tools:** GitHub, VSCode, IntelliJ IDEA  
+- **Languages:** Python, Java, JavaScript, C++, SQL
+- **Web Technologies:**  HTML5, CSS3, Bootstrap, Material-UI
+- **Frameworks & Libraries:** Node.js, Express.js, React.js, Streamlit, Scikit-learn
+- **Database:** MongoDB, MySQL
+- **Tools:**  Git, GitHub, VS Code, Postman, Vercel, Render
+- **Machine Learning & AI:**  Autonomous Agents (LangGraph), RAG Pipelines, LLM Inference (Groq LPU, Llama 3), LangChain, Hugging Face Transformers, FAISS Vector Store.
 
 ---
 
